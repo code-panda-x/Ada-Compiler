@@ -1,0 +1,48 @@
+/Users/pandax/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.deps.json
+/Users/pandax/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.runtimeconfig.json
+/Users/pandax/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.runtimeconfig.dev.json
+/Users/pandax/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.dll
+/Users/pandax/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.pdb
+/Users/pandax/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.csprojAssemblyReference.cache
+/Users/pandax/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.AssemblyInfoInputs.cache
+/Users/pandax/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.AssemblyInfo.cs
+/Users/pandax/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.csproj.CoreCompileInputs.cache
+/Users/pandax/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.dll
+/Users/pandax/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.pdb
+/Users/pandax/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.genruntimeconfig.cache
+/Users/pandax/2021 Spring/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.deps.json
+/Users/pandax/2021 Spring/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.runtimeconfig.json
+/Users/pandax/2021 Spring/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.runtimeconfig.dev.json
+/Users/pandax/2021 Spring/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.dll
+/Users/pandax/2021 Spring/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.pdb
+/Users/pandax/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.csprojAssemblyReference.cache
+/Users/pandax/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.AssemblyInfoInputs.cache
+/Users/pandax/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.AssemblyInfo.cs
+/Users/pandax/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.csproj.CoreCompileInputs.cache
+/Users/pandax/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.dll
+/Users/pandax/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.pdb
+/Users/pandax/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.genruntimeconfig.cache
+/Users/pandax/MyUniverse/2021 Spring/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.deps.json
+/Users/pandax/MyUniverse/2021 Spring/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.runtimeconfig.json
+/Users/pandax/MyUniverse/2021 Spring/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.runtimeconfig.dev.json
+/Users/pandax/MyUniverse/2021 Spring/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.dll
+/Users/pandax/MyUniverse/2021 Spring/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.pdb
+/Users/pandax/MyUniverse/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.csprojAssemblyReference.cache
+/Users/pandax/MyUniverse/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.AssemblyInfoInputs.cache
+/Users/pandax/MyUniverse/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.AssemblyInfo.cs
+/Users/pandax/MyUniverse/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.csproj.CoreCompileInputs.cache
+/Users/pandax/MyUniverse/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.dll
+/Users/pandax/MyUniverse/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.pdb
+/Users/pandax/MyUniverse/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.genruntimeconfig.cache
+/Users/pandax/MyUniverse/School/2021 Spring/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.deps.json
+/Users/pandax/MyUniverse/School/2021 Spring/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.runtimeconfig.json
+/Users/pandax/MyUniverse/School/2021 Spring/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.runtimeconfig.dev.json
+/Users/pandax/MyUniverse/School/2021 Spring/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.dll
+/Users/pandax/MyUniverse/School/2021 Spring/Compiler/AdaCompiler/AdaCompiler/bin/Debug/netcoreapp3.1/AdaCompiler.pdb
+/Users/pandax/MyUniverse/School/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.csprojAssemblyReference.cache
+/Users/pandax/MyUniverse/School/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.AssemblyInfoInputs.cache
+/Users/pandax/MyUniverse/School/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.AssemblyInfo.cs
+/Users/pandax/MyUniverse/School/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.csproj.CoreCompileInputs.cache
+/Users/pandax/MyUniverse/School/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.dll
+/Users/pandax/MyUniverse/School/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.pdb
+/Users/pandax/MyUniverse/School/2021 Spring/Compiler/AdaCompiler/AdaCompiler/obj/Debug/netcoreapp3.1/AdaCompiler.genruntimeconfig.cache

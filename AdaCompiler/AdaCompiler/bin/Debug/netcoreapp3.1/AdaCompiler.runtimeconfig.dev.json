@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/pandax/.dotnet/store/|arch|/|tfm|",
+      "/Users/pandax/.nuget/packages"
+    ]
+  }
+}
